@@ -1,5 +1,5 @@
 let count = 0;
-
+aaa
 // value 요소를 확보
 const value = document.querySelector("#value");
 const btns = document.querySelectorAll(".btn");
