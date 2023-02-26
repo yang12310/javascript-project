@@ -2,7 +2,7 @@ let count = 0;
 
 // value 요소를 확보
 const value = document.querySelector("#value");
-
+aaaaaa
 const btns = document.querySelectorAll(".btn");
 
 btns.forEach(function(btn){
