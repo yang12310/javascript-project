@@ -1,0 +1,31 @@
+{
+  "todolist": [
+    {
+      "date": "2023-03-12",
+      "time": "16:00",
+      "title": "저녁먹기",
+      "type": "appointments",
+      "status": "done",
+      "description": "친구랑 스파게티 먹으러 가기ㅠㅠ",
+      "id": 1
+    },
+    {
+      "date": "2023-03-13",
+      "time": "09:00",
+      "title": "출근",
+      "type": "appointments",
+      "status": "notyet",
+      "description": "친구랑 스파게티 먹으러 가기",
+      "id": 1
+    },
+    {
+      "date": "2023-03-12",
+      "time": "00:00",
+      "title": "ㄹㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄹㄴㄹㄴㄹㄴㄹㄴㄹ",
+      "type": "",
+      "status": "notyet",
+      "description": "ㄴㄹㄴㅇㄹㅇㄴ",
+      "id": 2
+    }
+  ]
+}
